@@ -59,8 +59,8 @@ public class DataImporterImpl implements DataImporter {
 	private String dbHost = "woclu3.informatik.uni-leipzig.de";
 	private String dbPort = "3306";
 	private String newDBName = "mkis_bachelor";
-	private String dbUsername = "mkisilowski";
-	private String dbPassword = "D,hdn1-Rd?";
+	private String dbUsername = "user";
+	private String dbPassword = "password";
 	// DB-Daten Ende
 	private List<String> wordList;
 	private ArrayList<String> dataBaseList;
